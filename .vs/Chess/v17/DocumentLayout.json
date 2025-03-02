@@ -1,0 +1,136 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tulci\\OneDrive\\Pulpit\\Chess-master\\Chess-master\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0305FD35-D534-477E-B274-3BBFEE795390}|Chess.csproj|c:\\users\\tulci\\onedrive\\pulpit\\chess-master\\chess-master\\chessboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0305FD35-D534-477E-B274-3BBFEE795390}|Chess.csproj|solutionrelative:chessboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0305FD35-D534-477E-B274-3BBFEE795390}|Chess.csproj|C:\\Users\\tulci\\OneDrive\\Pulpit\\Chess-master\\Chess-master\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0305FD35-D534-477E-B274-3BBFEE795390}|Chess.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0305FD35-D534-477E-B274-3BBFEE795390}|Chess.csproj|C:\\Users\\tulci\\OneDrive\\Pulpit\\Chess-master\\Chess-master\\piece.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0305FD35-D534-477E-B274-3BBFEE795390}|Chess.csproj|solutionrelative:piece.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0305FD35-D534-477E-B274-3BBFEE795390}|Chess.csproj|C:\\Users\\tulci\\OneDrive\\Pulpit\\Chess-master\\Chess-master\\aiplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0305FD35-D534-477E-B274-3BBFEE795390}|Chess.csproj|solutionrelative:aiplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0305FD35-D534-477E-B274-3BBFEE795390}|Chess.csproj|C:\\Users\\tulci\\OneDrive\\Pulpit\\Chess-master\\Chess-master\\move.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0305FD35-D534-477E-B274-3BBFEE795390}|Chess.csproj|solutionrelative:move.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0305FD35-D534-477E-B274-3BBFEE795390}|Chess.csproj|C:\\Users\\tulci\\OneDrive\\Pulpit\\Chess-master\\Chess-master\\tools.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0305FD35-D534-477E-B274-3BBFEE795390}|Chess.csproj|solutionrelative:tools.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0305FD35-D534-477E-B274-3BBFEE795390}|Chess.csproj|C:\\Users\\tulci\\OneDrive\\Pulpit\\Chess-master\\Chess-master\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0305FD35-D534-477E-B274-3BBFEE795390}|Chess.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Tools.cs",
+              "DocumentMoniker": "C:\\Users\\tulci\\OneDrive\\Pulpit\\Chess-master\\Chess-master\\Tools.cs",
+              "RelativeDocumentMoniker": "Tools.cs",
+              "ToolTip": "C:\\Users\\tulci\\OneDrive\\Pulpit\\Chess-master\\Chess-master\\Tools.cs",
+              "RelativeToolTip": "Tools.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T18:41:16.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Move.cs",
+              "DocumentMoniker": "C:\\Users\\tulci\\OneDrive\\Pulpit\\Chess-master\\Chess-master\\Move.cs",
+              "RelativeDocumentMoniker": "Move.cs",
+              "ToolTip": "C:\\Users\\tulci\\OneDrive\\Pulpit\\Chess-master\\Chess-master\\Move.cs",
+              "RelativeToolTip": "Move.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwBMAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T14:59:34.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AIPlayer.cs",
+              "DocumentMoniker": "C:\\Users\\tulci\\OneDrive\\Pulpit\\Chess-master\\Chess-master\\AIPlayer.cs",
+              "RelativeDocumentMoniker": "AIPlayer.cs",
+              "ToolTip": "C:\\Users\\tulci\\OneDrive\\Pulpit\\Chess-master\\Chess-master\\AIPlayer.cs",
+              "RelativeToolTip": "AIPlayer.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAUwBgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T14:47:10.445Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Piece.cs",
+              "DocumentMoniker": "C:\\Users\\tulci\\OneDrive\\Pulpit\\Chess-master\\Chess-master\\Piece.cs",
+              "RelativeDocumentMoniker": "Piece.cs",
+              "ToolTip": "C:\\Users\\tulci\\OneDrive\\Pulpit\\Chess-master\\Chess-master\\Piece.cs",
+              "RelativeToolTip": "Piece.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAcwEMAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T00:14:54.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\tulci\\OneDrive\\Pulpit\\Chess-master\\Chess-master\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\tulci\\OneDrive\\Pulpit\\Chess-master\\Chess-master\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAgwGQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T23:38:42.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Chessboard.cs",
+              "DocumentMoniker": "C:\\Users\\tulci\\OneDrive\\Pulpit\\Chess-master\\Chess-master\\Chessboard.cs",
+              "RelativeDocumentMoniker": "Chessboard.cs",
+              "ToolTip": "C:\\Users\\tulci\\OneDrive\\Pulpit\\Chess-master\\Chess-master\\Chessboard.cs",
+              "RelativeToolTip": "Chessboard.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAswHgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T23:36:58.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\tulci\\OneDrive\\Pulpit\\Chess-master\\Chess-master\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\tulci\\OneDrive\\Pulpit\\Chess-master\\Chess-master\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T23:36:55.632Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
